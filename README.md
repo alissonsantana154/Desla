@@ -22,5 +22,5 @@ https://alissonsantana154.github.io/Desla/
 # Autor
 Álisson josé de Santana
 
-https://www.linkedin.com/in/%C3%A1lisson-santana-ba594b1a5/
+https://www.linkedin.com/in/%C3%A1lisson-santana-frontend/
 
